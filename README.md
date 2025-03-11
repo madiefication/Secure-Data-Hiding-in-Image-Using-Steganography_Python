@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 - __Clone the repository:__ <br>
 
 
-         git clone https://github.com/Shaikh-Aiman/Secure-Data-Hiding-in-Image-Using-Steganography.git
+         git clone https://github.com/madiefication/Secure-Data-Hiding-in-Image-Using-Steganography_Python.git
 
 
 - __Navigate to the project directory:__
